@@ -11,14 +11,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iNotSoCrisp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iNotSoCrisp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iNotSoCrisp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=iNotSoCrisp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iNotSoCrisp&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iNotSoCrisp&theme=tokyonight&hide_border=true)
 
