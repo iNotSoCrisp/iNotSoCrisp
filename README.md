@@ -11,8 +11,8 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=iNotSoCrisp&theme=tokyonight&hide_border=true&show_icons=true" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iNotSoCrisp&theme=tokyonight&hide_border=true&show_icons=true)
 
-<img src="https://streak-stats.demolab.com?user=iNotSoCrisp&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=iNotSoCrisp&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iNotSoCrisp&theme=tokyonight&hide_border=true&layout=compact" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iNotSoCrisp&theme=tokyonight&hide_border=true&layout=compact)
